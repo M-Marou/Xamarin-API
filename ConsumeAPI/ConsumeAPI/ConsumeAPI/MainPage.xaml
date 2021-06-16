@@ -13,31 +13,25 @@
             <RowDefinition Height="50"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <Label Text="Load data from web Api" BackgroundColor="SlateBlue" FontSize="18" FontAttributes="Bold" TextColor="White" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
-        <syncfusion:SfListView x:Name="listView" ItemSize="90" ItemSpacing="5" Grid.Row="1"
-                               BackgroundColor="AliceBlue" ItemsSource="{Binding Items}">
+        <Label Text=" Name                    Price                      Quantity" BackgroundColor="#FA6A00" FontSize="18" FontAttributes="Bold" TextColor="White" VerticalTextAlignment="Center"/>
+        <syncfusion:SfListView x:Name="listView" ItemSize="50" ItemSpacing="5" Grid.Row="1"
+                                ItemsSource="{Binding Items}">
             <syncfusion:SfListView.ItemTemplate>
+                
                 <DataTemplate>
-                    <Frame BorderColor="#757575" Padding="5">
-                        <Grid>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="*"/>
-                                <ColumnDefinition Width="*"/>
-                            </Grid.ColumnDefinitions>
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="Auto"/>
-                                <RowDefinition Height="Auto"/>
-                                <RowDefinition Height="Auto"/>
-                            </Grid.RowDefinitions>
-                            <Label Grid.Row="0" Grid.Column="0" Text="Name  " HorizontalOptions="Start" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
-                            <Label Grid.Row="1" Grid.Column="0" Text="Price  " HorizontalOptions="Start" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
-                            <Label Grid.Row="2" Grid.Column="0" Text="Quantity  " HorizontalOptions="Start" TextColor="Black" FontSize="16" FontAttributes="Bold"/>
-
-                            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Name}" HorizontalOptions="Start" TextColor="Black" FontSize="16" WidthRequest="100"/>
-                            <Label Grid.Row="1" Grid.Column="1" Text="{Binding Price}" HorizontalOptions="Start" TextColor="Black" WidthRequest="100"/>
-                            <Label Grid.Row="2" Grid.Column="1" Text="{Binding Quantity}" HorizontalOptions="Start" TextColor="Black" WidthRequest="100"/>
-                        </Grid>
-                    </Frame>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                        <Label Text="{Binding Name}"   Grid.Row="0" Grid.Column="0" />
+                        <Label Text="{Binding Price}" Grid.Row="0" Grid.Column="1" />
+                        <Label Text="{Binding Quantity}" Grid.Row="0" Grid.Column="2" />
+                    </Grid>
                 </DataTemplate>
             </syncfusion:SfListView.ItemTemplate>
         </syncfusion:SfListView>
