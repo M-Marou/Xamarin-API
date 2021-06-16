@@ -1,0 +1,14 @@
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\bin\Debug\netstandard2.0\ConsumeAPI.deps.json
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\bin\Debug\netstandard2.0\ConsumeAPI.dll
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\bin\Debug\netstandard2.0\ref\ConsumeAPI.dll
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\bin\Debug\netstandard2.0\ConsumeAPI.pdb
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.csproj.AssemblyReference.cache
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.dll
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ref\ConsumeAPI.dll
+C:\Users\Youcode\Desktop\Xamarin-API\ConsumeAPI\ConsumeAPI\ConsumeAPI\obj\Debug\netstandard2.0\ConsumeAPI.pdb
