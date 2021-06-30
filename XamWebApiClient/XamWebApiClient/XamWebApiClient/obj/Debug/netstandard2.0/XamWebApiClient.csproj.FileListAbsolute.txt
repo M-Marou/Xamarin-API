@@ -1,0 +1,118 @@
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\Xamarin\xamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Administrateur\Desktop\Nouveau dossier (9)\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\Youcode\Desktop\xamarinApi\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.deps.json
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\bin\Debug\netstandard2.0\XamWebApiClient.pdb
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.AssemblyReference.cache
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\AddProduct.xaml.g.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\ProductDetails.xaml.g.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\Views\Products.xaml.g.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfoInputs.cache
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.AssemblyInfo.cs
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.dll
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\ref\XamWebApiClient.dll
+C:\Users\msckt\OneDrive\Bureau\CrudApiXamarinF\XamWebApiClient\XamWebApiClient\XamWebApiClient\obj\Debug\netstandard2.0\XamWebApiClient.pdb
